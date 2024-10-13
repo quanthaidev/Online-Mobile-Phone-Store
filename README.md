@@ -1,7 +1,8 @@
 # Web Application - Mobile Phone Store
 ## Description  
 This is an online mobile phone store developed using Java, JSP, Servlet, JDBC, MySQL, Bootstrap, and JSTL. The project provides an intuitive user interface and smooth shopping experience with essential features like product search, shopping cart, and order management.
-Copyright: [Quan Thai](https://www.facebook.com/reagan.developer/)
+
+*Copyright: [Quan Thai](https://www.facebook.com/reagan.developer/)
 
 ## Features  
 - Add products to the shopping cart
